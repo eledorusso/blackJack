@@ -1,0 +1,18 @@
+.mainContainer {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.buttonsContainer {
+  display: flex;
+}
+
+.resultText {
+  color: red;
+  position: 'absolute';
+  bottom: '100px';
+}
